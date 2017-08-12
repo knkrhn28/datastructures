@@ -8,4 +8,4 @@ def InsertSort(array):
         array[j+1] = key
 array = [12, 11, 13, 5, 6]
 InsertSort(array)
-print array
+print "array: ",array 
